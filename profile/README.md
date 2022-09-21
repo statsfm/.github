@@ -17,7 +17,7 @@ We also have a support documentation over at [https://support.stats.fm](https://
 ## Communities & socials
 > Make sure to follow and join the Stats.fm communities!
 
-Instagram: https://instagram.com/spotistats
+Instagram: https://instagram.com/statsfm
 
 Twitter: https://twitter.com/spotistats
 
