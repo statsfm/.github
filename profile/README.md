@@ -21,6 +21,6 @@ Instagram: https://instagram.com/statsfm
 
 Twitter: https://twitter.com/spotistats
 
-Reddit: https://www.reddit.com/r/spotistats
+Reddit: https://www.reddit.com/r/statsfm
 
 [![Discord invite](https://invidget.switchblade.xyz/763775648819970068)](https://discord.gg/aV9EtB3)
